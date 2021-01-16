@@ -1,0 +1,996 @@
++------------------------------+ 
+              Welcome to          
+            SciFiLi Library       
+ +------------------------------+ 
+
+System Options
+1) List of books
+2) List of books by title
+3) List of books by author
+4) Search by Title
+5) Search by Author
+6) Checkin
+7) Checkout
+8) Emergency Evac Plan
+0) Exit
+
+Enter choice here: 
+4
+
+Search Title: 
+Princess Bride
+Princess Bride, Goldman, OUT
+1) Check book in or out
+0) Back
+
+Enter choice here: 
+1
+Book Checkin Status Updated!
+Princess Bride, Goldman, IN
+ 
+
+System Options
+1) List of books
+2) List of books by title
+3) List of books by author
+4) Search by Title
+5) Search by Author
+6) Checkin
+7) Checkout
+8) Emergency Evac Plan
+0) Exit
+
+Enter choice here: 
+1
+Lord Of The Rings Trilogy, Tolkien, OUT
+ 
+Hitchhiker's Guide To The Galaxy, AdamsD, OUT
+ 
+Ender's Game, Card, IN
+ 
+Dune Chronicles, Herbert, IN
+ 
+Song Of Ice And Fire Series, Martin, IN
+ 
+1984, Orwell, OUT
+ 
+Fahrenheit 451, Bradbury, OUT
+ 
+Foundation Trilogy, Asimov, OUT
+ 
+Brave New World, Huxley, IN
+ 
+American Gods, Gaiman, OUT
+ 
+Princess Bride, Goldman, IN
+ 
+Wheel Of Time Series, Jordan, IN
+ 
+Animal Farm, Orwell, OUT
+ 
+Neuromancer, Gibson, IN
+ 
+Watchmen, Moore, IN
+ 
+I Robot, Asimov, IN
+ 
+Stranger In A Strange Land, Heinlein, IN
+ 
+Kingkiller Chronicles, Rothfuss, IN
+ 
+Slaughterhouse-Five, Vonnegut, OUT
+ 
+Frankenstein, Shelley, IN
+ 
+Do Androids Dream Of Electric Sheep?, Dick, IN
+ 
+Handmaid's Tale, Atwood, IN
+ 
+Dark Tower Series, King, IN
+ 
+2001: A Space Odyssey, ClarkeA, IN
+ 
+The Stand, King, OUT
+ 
+Snow Crash, Stephenson, IN
+ 
+Martian Chronicles, Bradbury, OUT
+ 
+Cat's Cradle, Vonnegut, IN
+ 
+Sandman, Gaiman, OUT
+ 
+Clockwork Orange, Burgess, IN
+ 
+Starship Troopers, Heinlein, IN
+ 
+Watership Down, AdamsR, OUT
+ 
+Dragonflight, McCaffrey, IN
+ 
+Moon Is A Harsh Mistress, Heinlein, OUT
+ 
+Canticle For Leibowitz, Miller, IN
+ 
+Time Machine, Wells, OUT
+ 
+20000 Leagues Under The Sea, Verne, IN
+ 
+Flowers For Algernon, Keys, OUT
+ 
+War Of The Worlds, Wells, OUT
+ 
+Chronicles Of Amber, Zelazny, IN
+ 
+Belgariad, Eddings, IN
+ 
+Mists Of Avalon, Bradley, IN
+ 
+Mistborn Series, Sanderson, IN
+ 
+Ringworld, Niven, IN
+ 
+Left Hand Of Darkness, LeGuin, IN
+ 
+Silmarillion, Tolkien, IN
+ 
+Once And Future King, White, OUT
+ 
+Neverwhere, Gaiman, OUT
+ 
+Childhood's End, ClarkeA, IN
+ 
+Contact, Sagan, IN
+ 
+Hyperion, Simmons, OUT
+ 
+Stardust, Gaiman, IN
+ 
+Cryptonomicon, Stephenson, IN
+ 
+World War Z, Brooks, IN
+ 
+Last Unicorn, Beagle, IN
+ 
+Forever War, Haldeman, IN
+ 
+Small Gods, Pratchett, IN
+ 
+Chronicles Of Thomas Covenant The Unbeliever, Donaldson, OUT
+ 
+Vorkosigan Saga, Bujold, IN
+ 
+Going Postal, Pratchett, IN
+ 
+Mote In God's Eye, Niven&Pournelle, IN
+ 
+Sword Of Truth, Goodkind, IN
+ 
+The Road, McCarthy, IN
+ 
+Jonathan Strange & Mr Norrell, ClarkeS, IN
+ 
+I Am Legend, Matheson, IN
+ 
+Riftwar Saga, Feist, IN
+ 
+Shannara Trilogy, Brooks, IN
+ 
+Conan The Barbarian Series, Howard, IN
+ 
+Farseer Trilogy, Hobb, IN
+ 
+Time Traveler's Wife, Niffenegger, OUT
+ 
+Way Of Kings, Sanderson, IN
+ 
+Journey To The Center Of The Earth, Verne, IN
+ 
+Legend Of Drizzt Series, Salvatore, IN
+ 
+Old Man's War, Scalzi, OUT
+ 
+Diamond Age, Stephenson, IN
+ 
+Rendezvous With Rama, ClarkeA, IN
+ 
+Kushiel's Legacy Series, Carey, IN
+ 
+Dispossessed, LeGuin, IN
+ 
+Something Wicked This Way Comes, Bradbury, OUT
+ 
+Wicked, Maguire, OUT
+ 
+Malazan Book Of The Fallen Series, Erikson, IN
+ 
+Eyre Affair, Fforde, OUT
+ 
+Culture Series, Banks, IN
+ 
+Crystal Cave, Stewart, OUT
+ 
+Anathem, Stephenson, IN
+ 
+Codex Alera Series, Butcher, IN
+ 
+Book Of The New Sun, Wolfe, IN
+ 
+Thrawn Trilogy, Zahn, IN
+ 
+Outlander Series, Gabaldan, IN
+ 
+Elric Saga, Moorcock, IN
+ 
+Illustrated Man, Bradbury, OUT
+ 
+Sunshine, McKinley, IN
+ 
+Fire Upon The Deep, Vinge, IN
+ 
+Caves Of Steel, Asimov, IN
+ 
+Mars Trilogy, Robinson, OUT
+ 
+Lucifer's Hammer, Niven&Pournelle, OUT
+ 
+Doomsday Book, Willis, IN
+ 
+Perdido Street Station, Mieville, IN
+ 
+Xanth Series, Anthony, IN
+ 
+Space Trilogy, Lewis, IN
+ 
+Hunger Games Trilogy, Collins, IN
+ 
+Sparrow, Russell, OUT
+ 
+Inherit The Stars, Hogan, OUT
+ 
+Tripods Series, Christopher, OUT
+ 
+Alas Babylon, Frank, IN
+ 
+Ready Player One, Cline, OUT
+ 
+Pastwatch, Card, OUT
+ 
+Hard-boiled Wonderland and the End of the World, Murakami, OUT
+ 
+ 
+
+System Options
+1) List of books
+2) List of books by title
+3) List of books by author
+4) Search by Title
+5) Search by Author
+6) Checkin
+7) Checkout
+8) Emergency Evac Plan
+0) Exit
+
+Enter choice here: 
+2
+1984, Orwell, OUT
+ 
+20000 Leagues Under The Sea, Verne, IN
+ 
+2001: A Space Odyssey, ClarkeA, IN
+ 
+Alas Babylon, Frank, IN
+ 
+American Gods, Gaiman, OUT
+ 
+Anathem, Stephenson, IN
+ 
+Animal Farm, Orwell, OUT
+ 
+Belgariad, Eddings, IN
+ 
+Book Of The New Sun, Wolfe, IN
+ 
+Brave New World, Huxley, IN
+ 
+Canticle For Leibowitz, Miller, IN
+ 
+Cat's Cradle, Vonnegut, IN
+ 
+Caves Of Steel, Asimov, IN
+ 
+Childhood's End, ClarkeA, IN
+ 
+Chronicles Of Amber, Zelazny, IN
+ 
+Chronicles Of Thomas Covenant The Unbeliever, Donaldson, OUT
+ 
+Clockwork Orange, Burgess, IN
+ 
+Codex Alera Series, Butcher, IN
+ 
+Conan The Barbarian Series, Howard, IN
+ 
+Contact, Sagan, IN
+ 
+Cryptonomicon, Stephenson, IN
+ 
+Crystal Cave, Stewart, OUT
+ 
+Culture Series, Banks, IN
+ 
+Dark Tower Series, King, IN
+ 
+Diamond Age, Stephenson, IN
+ 
+Dispossessed, LeGuin, IN
+ 
+Do Androids Dream Of Electric Sheep?, Dick, IN
+ 
+Doomsday Book, Willis, IN
+ 
+Dragonflight, McCaffrey, IN
+ 
+Dune Chronicles, Herbert, IN
+ 
+Elric Saga, Moorcock, IN
+ 
+Ender's Game, Card, IN
+ 
+Eyre Affair, Fforde, OUT
+ 
+Fahrenheit 451, Bradbury, OUT
+ 
+Farseer Trilogy, Hobb, IN
+ 
+Fire Upon The Deep, Vinge, IN
+ 
+Flowers For Algernon, Keys, OUT
+ 
+Forever War, Haldeman, IN
+ 
+Foundation Trilogy, Asimov, OUT
+ 
+Frankenstein, Shelley, IN
+ 
+Going Postal, Pratchett, IN
+ 
+Handmaid's Tale, Atwood, IN
+ 
+Hard-boiled Wonderland and the End of the World, Murakami, OUT
+ 
+Hitchhiker's Guide To The Galaxy, AdamsD, OUT
+ 
+Hunger Games Trilogy, Collins, IN
+ 
+Hyperion, Simmons, OUT
+ 
+I Am Legend, Matheson, IN
+ 
+I Robot, Asimov, IN
+ 
+Illustrated Man, Bradbury, OUT
+ 
+Inherit The Stars, Hogan, OUT
+ 
+Jonathan Strange & Mr Norrell, ClarkeS, IN
+ 
+Journey To The Center Of The Earth, Verne, IN
+ 
+Kingkiller Chronicles, Rothfuss, IN
+ 
+Kushiel's Legacy Series, Carey, IN
+ 
+Last Unicorn, Beagle, IN
+ 
+Left Hand Of Darkness, LeGuin, IN
+ 
+Legend Of Drizzt Series, Salvatore, IN
+ 
+Lord Of The Rings Trilogy, Tolkien, OUT
+ 
+Lucifer's Hammer, Niven&Pournelle, OUT
+ 
+Malazan Book Of The Fallen Series, Erikson, IN
+ 
+Mars Trilogy, Robinson, OUT
+ 
+Martian Chronicles, Bradbury, OUT
+ 
+Mistborn Series, Sanderson, IN
+ 
+Mists Of Avalon, Bradley, IN
+ 
+Moon Is A Harsh Mistress, Heinlein, OUT
+ 
+Mote In God's Eye, Niven&Pournelle, IN
+ 
+Neuromancer, Gibson, IN
+ 
+Neverwhere, Gaiman, OUT
+ 
+Old Man's War, Scalzi, OUT
+ 
+Once And Future King, White, OUT
+ 
+Outlander Series, Gabaldan, IN
+ 
+Pastwatch, Card, OUT
+ 
+Perdido Street Station, Mieville, IN
+ 
+Princess Bride, Goldman, IN
+ 
+Ready Player One, Cline, OUT
+ 
+Rendezvous With Rama, ClarkeA, IN
+ 
+Riftwar Saga, Feist, IN
+ 
+Ringworld, Niven, IN
+ 
+Sandman, Gaiman, OUT
+ 
+Shannara Trilogy, Brooks, IN
+ 
+Silmarillion, Tolkien, IN
+ 
+Slaughterhouse-Five, Vonnegut, OUT
+ 
+Small Gods, Pratchett, IN
+ 
+Snow Crash, Stephenson, IN
+ 
+Something Wicked This Way Comes, Bradbury, OUT
+ 
+Song Of Ice And Fire Series, Martin, IN
+ 
+Space Trilogy, Lewis, IN
+ 
+Sparrow, Russell, OUT
+ 
+Stardust, Gaiman, IN
+ 
+Starship Troopers, Heinlein, IN
+ 
+Stranger In A Strange Land, Heinlein, IN
+ 
+Sunshine, McKinley, IN
+ 
+Sword Of Truth, Goodkind, IN
+ 
+The Road, McCarthy, IN
+ 
+The Stand, King, OUT
+ 
+Thrawn Trilogy, Zahn, IN
+ 
+Time Machine, Wells, OUT
+ 
+Time Traveler's Wife, Niffenegger, OUT
+ 
+Tripods Series, Christopher, OUT
+ 
+Vorkosigan Saga, Bujold, IN
+ 
+War Of The Worlds, Wells, OUT
+ 
+Watchmen, Moore, IN
+ 
+Watership Down, AdamsR, OUT
+ 
+Way Of Kings, Sanderson, IN
+ 
+Wheel Of Time Series, Jordan, IN
+ 
+Wicked, Maguire, OUT
+ 
+World War Z, Brooks, IN
+ 
+Xanth Series, Anthony, IN
+ 
+ 
+
+System Options
+1) List of books
+2) List of books by title
+3) List of books by author
+4) Search by Title
+5) Search by Author
+6) Checkin
+7) Checkout
+8) Emergency Evac Plan
+0) Exit
+
+Enter choice here: 
+3
+AdamsD, Hitchhiker's Guide To The Galaxy, OUT
+ 
+AdamsR, Watership Down, OUT
+ 
+Anthony, Xanth Series, IN
+ 
+Asimov, I Robot, IN
+ 
+Asimov, Foundation Trilogy, OUT
+ 
+Asimov, Caves Of Steel, IN
+ 
+Atwood, Handmaid's Tale, IN
+ 
+Banks, Culture Series, IN
+ 
+Beagle, Last Unicorn, IN
+ 
+Bradbury, Martian Chronicles, OUT
+ 
+Bradbury, Something Wicked This Way Comes, OUT
+ 
+Bradbury, Fahrenheit 451, OUT
+ 
+Bradbury, Illustrated Man, OUT
+ 
+Bradley, Mists Of Avalon, IN
+ 
+Brooks, World War Z, IN
+ 
+Brooks, Shannara Trilogy, IN
+ 
+Bujold, Vorkosigan Saga, IN
+ 
+Burgess, Clockwork Orange, IN
+ 
+Butcher, Codex Alera Series, IN
+ 
+Card, Pastwatch, OUT
+ 
+Card, Ender's Game, IN
+ 
+Carey, Kushiel's Legacy Series, IN
+ 
+Christopher, Tripods Series, OUT
+ 
+ClarkeA, Childhood's End, IN
+ 
+ClarkeA, Rendezvous With Rama, IN
+ 
+ClarkeA, 2001: A Space Odyssey, IN
+ 
+ClarkeS, Jonathan Strange & Mr Norrell, IN
+ 
+Cline, Ready Player One, OUT
+ 
+Collins, Hunger Games Trilogy, IN
+ 
+Dick, Do Androids Dream Of Electric Sheep?, IN
+ 
+Donaldson, Chronicles Of Thomas Covenant The Unbeliever, OUT
+ 
+Eddings, Belgariad, IN
+ 
+Erikson, Malazan Book Of The Fallen Series, IN
+ 
+Feist, Riftwar Saga, IN
+ 
+Fforde, Eyre Affair, OUT
+ 
+Frank, Alas Babylon, IN
+ 
+Gabaldan, Outlander Series, IN
+ 
+Gaiman, Sandman, OUT
+ 
+Gaiman, Neverwhere, OUT
+ 
+Gaiman, Stardust, IN
+ 
+Gaiman, American Gods, OUT
+ 
+Gibson, Neuromancer, IN
+ 
+Goldman, Princess Bride, IN
+ 
+Goodkind, Sword Of Truth, IN
+ 
+Haldeman, Forever War, IN
+ 
+Heinlein, Starship Troopers, IN
+ 
+Heinlein, Stranger In A Strange Land, IN
+ 
+Heinlein, Moon Is A Harsh Mistress, OUT
+ 
+Herbert, Dune Chronicles, IN
+ 
+Hobb, Farseer Trilogy, IN
+ 
+Hogan, Inherit The Stars, OUT
+ 
+Howard, Conan The Barbarian Series, IN
+ 
+Huxley, Brave New World, IN
+ 
+Jordan, Wheel Of Time Series, IN
+ 
+Keys, Flowers For Algernon, OUT
+ 
+King, The Stand, OUT
+ 
+King, Dark Tower Series, IN
+ 
+LeGuin, Dispossessed, IN
+ 
+LeGuin, Left Hand Of Darkness, IN
+ 
+Lewis, Space Trilogy, IN
+ 
+Maguire, Wicked, OUT
+ 
+Martin, Song Of Ice And Fire Series, IN
+ 
+Matheson, I Am Legend, IN
+ 
+McCaffrey, Dragonflight, IN
+ 
+McCarthy, The Road, IN
+ 
+McKinley, Sunshine, IN
+ 
+Mieville, Perdido Street Station, IN
+ 
+Miller, Canticle For Leibowitz, IN
+ 
+Moorcock, Elric Saga, IN
+ 
+Moore, Watchmen, IN
+ 
+Murakami, Hard-boiled Wonderland and the End of the World, OUT
+ 
+Niffenegger, Time Traveler's Wife, OUT
+ 
+Niven, Ringworld, IN
+ 
+Niven&Pournelle, Lucifer's Hammer, OUT
+ 
+Niven&Pournelle, Mote In God's Eye, IN
+ 
+Orwell, Animal Farm, OUT
+ 
+Orwell, 1984, OUT
+ 
+Pratchett, Going Postal, IN
+ 
+Pratchett, Small Gods, IN
+ 
+Robinson, Mars Trilogy, OUT
+ 
+Rothfuss, Kingkiller Chronicles, IN
+ 
+Russell, Sparrow, OUT
+ 
+Sagan, Contact, IN
+ 
+Salvatore, Legend Of Drizzt Series, IN
+ 
+Sanderson, Mistborn Series, IN
+ 
+Sanderson, Way Of Kings, IN
+ 
+Scalzi, Old Man's War, OUT
+ 
+Shelley, Frankenstein, IN
+ 
+Simmons, Hyperion, OUT
+ 
+Stephenson, Snow Crash, IN
+ 
+Stephenson, Anathem, IN
+ 
+Stephenson, Cryptonomicon, IN
+ 
+Stephenson, Diamond Age, IN
+ 
+Stewart, Crystal Cave, OUT
+ 
+Tolkien, Silmarillion, IN
+ 
+Tolkien, Lord Of The Rings Trilogy, OUT
+ 
+Verne, 20000 Leagues Under The Sea, IN
+ 
+Verne, Journey To The Center Of The Earth, IN
+ 
+Vinge, Fire Upon The Deep, IN
+ 
+Vonnegut, Slaughterhouse-Five, OUT
+ 
+Vonnegut, Cat's Cradle, IN
+ 
+Wells, Time Machine, OUT
+ 
+Wells, War Of The Worlds, OUT
+ 
+White, Once And Future King, OUT
+ 
+Willis, Doomsday Book, IN
+ 
+Wolfe, Book Of The New Sun, IN
+ 
+Zahn, Thrawn Trilogy, IN
+ 
+Zelazny, Chronicles Of Amber, IN
+
+System Options
+1) List of books
+2) List of books by title
+3) List of books by author
+4) Search by Title
+5) Search by Author
+6) Checkin
+7) Checkout
+8) Emergency Evac Plan
+0) Exit
+
+Enter choice here: 
+5
+Search Author
+Orwell
+Books by Orwell
+1984, OUT
+Animal Farm, OUT
+
+System Options
+1) List of books
+2) List of books by title
+3) List of books by author
+4) Search by Title
+5) Search by Author
+6) Checkin
+7) Checkout
+8) Emergency Evac Plan
+0) Exit
+
+Enter choice here: 
+6
+How many books are being returned? 
+4
+Enter book Title: 
+Sandman
+Enter book Title: 
+princess bride
+Book is already checked in!
+Enter book Title: 
+ThE sTaND
+Enter book Title: 
+Animal Farm
+Enter book Title: 
+War of The worlds
+---------Check in Stack------
+War Of The Worlds, Wells 
+Animal Farm, Orwell 
+The Stand, King 
+Sandman, Gaiman 
+Press 1 to clear check in stack 
+1
+War Of The Worlds, Wells: Has been checked in! ---> check in status: IN
+Animal Farm, Orwell: Has been checked in! ---> check in status: IN
+The Stand, King: Has been checked in! ---> check in status: IN
+Sandman, Gaiman: Has been checked in! ---> check in status: IN
+
+
+System Options
+1) List of books
+2) List of books by title
+3) List of books by author
+4) Search by Title
+5) Search by Author
+6) Checkin
+7) Checkout
+8) Emergency Evac Plan
+0) Exit
+
+Enter choice here: 
+7
+How many books are being checked out? 
+5
+Enter book Title: 
+Brave New World
+Enter book Title: 
+Wheel Of Time Series
+Enter book Title: 
+Animal Farm
+Enter book Title: 
+I Robot
+Enter book Title: 
+Snow Crash
+---------Check out Stack------
+Snow Crash, Stephenson 
+I Robot, Asimov 
+Animal Farm, Orwell 
+Wheel Of Time Series, Jordan 
+Brave New World, Huxley 
+Press 1 to clear check out stack 
+1
+Snow Crash, Stephenson: Has been checked out! ---> check in status: OUT
+I Robot, Asimov: Has been checked out! ---> check in status: OUT
+Animal Farm, Orwell: Has been checked out! ---> check in status: OUT
+Wheel Of Time Series, Jordan: Has been checked out! ---> check in status: OUT
+Brave New World, Huxley: Has been checked out! ---> check in status: OUT
+ 
+
+System Options
+1) List of books
+2) List of books by title
+3) List of books by author
+4) Search by Title
+5) Search by Author
+6) Checkin
+7) Checkout
+8) Emergency Evac Plan
+0) Exit
+
+Enter choice here: 
+8
+--------------Evacuate All Checked in books-----------
+Princess Bride, Goldman, Priority = 4
+ 
+Do Androids Dream Of Electric Sheep?, Dick, Priority = 5
+ 
+Ender's Game, Card, Priority = 6
+ 
+Canticle For Leibowitz, Miller, Priority = 8
+ 
+Elric Saga, Moorcock, Priority = 9
+ 
+Hunger Games Trilogy, Collins, Priority = 12
+ 
+The Stand, King, Priority = 17
+ 
+Sandman, Gaiman, Priority = 18
+ 
+Small Gods, Pratchett, Priority = 20
+ 
+Dune Chronicles, Herbert, Priority = 27
+ 
+Dark Tower Series, King, Priority = 29
+ 
+20000 Leagues Under The Sea, Verne, Priority = 31
+ 
+World War Z, Brooks, Priority = 34
+ 
+Journey To The Center Of The Earth, Verne, Priority = 35
+ 
+Thrawn Trilogy, Zahn, Priority = 41
+ 
+Rendezvous With Rama, ClarkeA, Priority = 42
+ 
+Farseer Trilogy, Hobb, Priority = 43
+ 
+Jonathan Strange & Mr Norrell, ClarkeS, Priority = 44
+ 
+Contact, Sagan, Priority = 46
+ 
+Cat's Cradle, Vonnegut, Priority = 48
+ 
+Frankenstein, Shelley, Priority = 50
+ 
+Watchmen, Moore, Priority = 52
+ 
+Song Of Ice And Fire Series, Martin, Priority = 54
+ 
+Stranger In A Strange Land, Heinlein, Priority = 56
+ 
+Handmaid's Tale, Atwood, Priority = 57
+ 
+Starship Troopers, Heinlein, Priority = 58
+ 
+Clockwork Orange, Burgess, Priority = 59
+ 
+War Of The Worlds, Wells, Priority = 60
+ 
+Ringworld, Niven, Priority = 61
+ 
+Silmarillion, Tolkien, Priority = 62
+ 
+Stardust, Gaiman, Priority = 63
+ 
+Last Unicorn, Beagle, Priority = 64
+ 
+Going Postal, Pratchett, Priority = 65
+ 
+I Am Legend, Matheson, Priority = 66
+ 
+Culture Series, Banks, Priority = 67
+ 
+Book Of The New Sun, Wolfe, Priority = 68
+ 
+Caves Of Steel, Asimov, Priority = 69
+ 
+Doomsday Book, Willis, Priority = 70
+ 
+Alas Babylon, Frank, Priority = 71
+ 
+Xanth Series, Anthony, Priority = 72
+ 
+Fire Upon The Deep, Vinge, Priority = 73
+ 
+Codex Alera Series, Butcher, Priority = 74
+ 
+Malazan Book Of The Fallen Series, Erikson, Priority = 75
+ 
+Diamond Age, Stephenson, Priority = 76
+ 
+Conan The Barbarian Series, Howard, Priority = 77
+ 
+Mote In God's Eye, Niven&Pournelle, Priority = 78
+ 
+Forever War, Haldeman, Priority = 79
+ 
+Belgariad, Eddings, Priority = 81
+ 
+Dragonflight, McCaffrey, Priority = 83
+ 
+2001: A Space Odyssey, ClarkeA, Priority = 84
+ 
+Neuromancer, Gibson, Priority = 86
+ 
+Kingkiller Chronicles, Rothfuss, Priority = 87
+ 
+Chronicles Of Amber, Zelazny, Priority = 88
+ 
+Left Hand Of Darkness, LeGuin, Priority = 89
+ 
+Mists Of Avalon, Bradley, Priority = 90
+ 
+Mistborn Series, Sanderson, Priority = 91
+ 
+Childhood's End, ClarkeA, Priority = 92
+ 
+Vorkosigan Saga, Bujold, Priority = 93
+ 
+Sword Of Truth, Goodkind, Priority = 94
+ 
+The Road, McCarthy, Priority = 95
+ 
+Riftwar Saga, Feist, Priority = 96
+ 
+Shannara Trilogy, Brooks, Priority = 97
+ 
+Way Of Kings, Sanderson, Priority = 98
+ 
+Legend Of Drizzt Series, Salvatore, Priority = 99
+ 
+Kushiel's Legacy Series, Carey, Priority = 100
+ 
+Dispossessed, LeGuin, Priority = 101
+ 
+Anathem, Stephenson, Priority = 102
+ 
+Outlander Series, Gabaldan, Priority = 104
+ 
+Sunshine, McKinley, Priority = 105
+ 
+Perdido Street Station, Mieville, Priority = 106
+ 
+Space Trilogy, Lewis, Priority = 107
+ 
+Cryptonomicon, Stephenson, Priority = 108
+ 
+ 
+
+System Options
+1) List of books
+2) List of books by title
+3) List of books by author
+4) Search by Title
+5) Search by Author
+6) Checkin
+7) Checkout
+8) Emergency Evac Plan
+0) Exit
+
+Enter choice here: 
+0
+System off 
+
+ 

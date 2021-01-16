@@ -1,0 +1,70 @@
++--------------------------------------+
+            Welcome to                  
+       Cartisian Planes Inc.            
++---------------------------------------+
+
+How can we assist you?
+1) View Flights
+2) Search Flights
+0) Exit
+
+Enter choice here: 1
+9002 Florida 1
+9003 Chicago 1
+9004 NYC 1
+9005 Florida 1
+9006 DC 2
+9007 Boston 2
+9008 Florida 2
+9009 NYC 2
+9010 Florida 3
+9011 Chicago 3
+9012 NYC 3
+9013 Florida 3
+9014 DC 4
+9015 Boston 4
+9016 Florida 4
+9017 NYC 4
+9018 Florida 5
+9019 Chicago 5
+9020 NYC 5
+9021 Florida 5
+9022 DC 6
+9023 Boston 6
+9024 Florida 6
+9025 NYC 6
+9026 Bahamas 7
+9027 Jamaica 7
+9028 London 7
+9029 Paris 7
+ 
+
+How can we assist you?
+1) View Flights
+2) Search Flights
+0) Exit
+
+Enter choice here: 2
+
+ Enter Plane ID: 9013
+9013 Florida 3
+ 
+
+How can we assist you?
+1) View Flights
+2) Search Flights
+0) Exit
+
+Enter choice here: 2
+
+ Enter Plane ID: 9000
+Plane not found
+ 
+
+How can we assist you?
+1) View Flights
+2) Search Flights
+0) Exit
+
+Enter choice here: 0
+Thank you for using Cartisian Planes Inc.! 

@@ -1,0 +1,34 @@
+Cartesian Planes (Incorporated) needs a plane tracking program. They need to know what planes are going where, when they each travel, and so on. So they’ve hired you, the LA-Tech Consulting Team.
+
+Specifications:
+
+Classes…
+
+One class for Plane
+Private variables…
+int PlaneNum
+String Destination
+int DayOfTravel (values will be 1 through 7)
+Default constructor
+Getter’s and setters for all variables
+Main program…
+
+Read “planes.txt” to create the planes and store them in an array
+Note there’s a “header” line in the file!
+Note: you may not use ArrayList or other list classes from Java – make your own array!
+Display a menu for the user…
+List Planes?
+Show all planes in numeric order, day each is travelling as a String, and # of seats taken. Note if a plane is full.
+List should be sorted using a bubble or insertion sort
+Find Plane?
+Outputs the plane info or “not here” if it doesn’t exist.
+Searching should be done with a binary search.
+End Program
+SUGGESTED PLAN:
+Write a program that reads the file and stores it in an array of String - use the Blue Pelican Java book for how to do this. Debug before moving on.
+Create your Plane class. Change your array to hold Plane objects instead of String. Don't debug yet.
+In the loop that reads the file, figure out how to split the String input so you can put stuff in the Plane object appropriately, including changing text to int as needed. (Note: There is a hint in that sentence for you.) Debug before moving on.
+Create your menu, but have it display dummy messages for now except for the Exit option. Debug before moving on.
+Write your sorting algorithm and implement it in the menu. Debug.
+Write your search algorithm and implement it. Debug.
+Done! Don't forget your output file when you submit!

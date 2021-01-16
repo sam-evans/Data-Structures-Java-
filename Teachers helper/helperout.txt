@@ -1,0 +1,40 @@
+Enter Formula
+(A+B)*C+D
+What is the value of A
+3
+What is the value of B
+2
+What is the value of C
+4
+What is the value of D
+5
+25.0 
+Postfix conversion - A B + C * D + 
+Enter Formula
+(A+B)*C
+What is the value of A
+2
+What is the value of B
+3
+What is the value of C
+4
+20.0
+Postfix conversion - A B + C *
+
+Postfix conversion - A B * C D / + 
+Enter Formula
+(A-B)*(C+D)+(E/F)
+What is the value of A
+3
+What is the value of B
+1
+What is the value of C
+2
+What is the value of D
+2
+What is the value of E
+4
+What is the value of F
+2
+10.0
+Postfix conversion - A B - C D + * E F / + 

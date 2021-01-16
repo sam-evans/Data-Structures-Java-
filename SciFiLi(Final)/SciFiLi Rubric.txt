@@ -1,0 +1,19 @@
+Your final project is to create a library management program for SciFiLi (the Science Fiction Library) by applying all you've learned. Each of the following tasks is most efficiently accomplished by using a data structure, sometimes the same one and sometimes not. You need to decide which will be most appropriate for each task. For each task, implement what you believe is the most appropriate data structure AND JUSTIFY YOUR CHOICE IN THE COMMENTS. Part of your grade will be your justification. You must use a minimum of 3 different data structures in the entire program, one of which must be a data structure you have not used in a previous assignment! Additionally, you must use one of the sorting algorithms you learned since the midterm!
+
+1.      The day starts with the program reading the file of books and storing them internally. Each book has a title and author and an integer for status (1 = checked in, 0 = checked out)
+
+2.      The librarian needs to be able to search by title or author.
+
+a.      If searching by author, output should list all books by that author.
+
+b.      The search should also tell if the book is checked out or not.
+
+3.      The librarian needs to be able to create an ordered list by title and another by author.
+
+4.      The librarian needs to be able to check in/out books.
+
+5.      At the end of the day, when the librarian quits the program, output all books to a file (alphabetically by title) and if they’re checked in or out.
+
+6.      When people return books, they stick a pile in front of the librarian. Emulate the return process.
+
+7.      The library is organized alphabetically by author. That means Douglas Adams is closer to the exit than H. G. Wells is. If the library catches fire, the most important need to be rescued first! (Each book has a priority already.) So the program also needs to create a list of books to evacuate according to priority (and remember to only list the books actually checked in!).
